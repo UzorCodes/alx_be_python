@@ -1,7 +1,7 @@
 # This code calculates the future ages on an individual
 # The current year is assumed to be 2023 and the future year is 2050
  
-current_age = int(input("How old are you: ")) # prompts user to enter age
+current_age = int(input("How old are you? ")) # prompts user to enter age
 
 
 #performs calculation with user input assuming future is 27 years away
