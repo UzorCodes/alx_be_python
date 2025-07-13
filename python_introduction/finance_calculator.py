@@ -2,11 +2,11 @@
 # The current year is assumed to be 2023 and the future year is 2050
  
 monthly_income = int(input("Enter your monthly income: ")) # prompts user to enter monthly income
-total_monthly_expense = int(input("Enter your total monthly expense: ")) # prompts user to enter total monthly expense
+monthly_expenses = int(input("Enter your total monthly expense: ")) # prompts user to enter total monthly expense
 
 
 #Calculates monthly savings
-monthly_savings = monthly_income - total_monthly_expense
+monthly_savings = monthly_income - monthly_expenses
 
 
 #calculates compound interest in a year at an assumed rate of 5% per annum
