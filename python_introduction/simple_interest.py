@@ -6,7 +6,7 @@ time = 3  # defines the time period
 
 
 # Calculate the simple interest
-simple_interest = principal *rate * time
+simple_interest = principal * rate * time
  
 
 # Outputs result of the calculation
