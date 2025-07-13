@@ -10,6 +10,6 @@ product = number1 * number2
 
 
 # Outputs result of the basic operations
-print("Addition of", number1, "and", number2, "is" sum) 
-print("Difference of", number1, "and", number2, "is" difference) 
-print("Product of", number1, "and", number2, "is" product) 
+print("Addition of", number1, "and", number2, "is", sum) 
+print("Difference of", number1, "and", number2, "is", difference) 
+print("Product of", number1, "and", number2, "is", product) 
