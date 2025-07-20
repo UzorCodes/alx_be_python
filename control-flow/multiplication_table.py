@@ -4,4 +4,4 @@ num1 = int(input("Enter a number to see its multiplication table: "))  # prompts
 
 for x in range(1,11):
     product = num1 * x
-    print(f"{num1} * {x} = {product}", end="\t")
+    print("{num1} * {x} = {product}", end="\t")
