@@ -11,6 +11,6 @@ def display_current_datetime():
 
 def calculate_future_date():
 
-    future_date = current_date + number_of_days
+    future_date.strftime = time_format + number_of_days
     print("Future date: ", future_date)
 
