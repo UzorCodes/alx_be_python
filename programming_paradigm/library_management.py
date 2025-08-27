@@ -4,6 +4,14 @@ class Book:
         self.author = author
         self._is_checked_out = 0  # Default attribute value
 
+
+Class Library:
+
+    def __init__(self, title, _books)
+        self.title = title
+        self.author = author
+        self._books = 0
+
     def list_available_books(self, book, author):
         for i in 
 
