@@ -5,7 +5,7 @@ class Book:
         self._is_checked_out = 0  # Default attribute value
 
 
-Class Library:
+class Library:
 
     def __init__(self, title, _books)
         self.title = title
