@@ -1,13 +1,12 @@
 class Book:
-    def __init__(self, title, author):
+    def __init__(self):
         self.title = title
         self.author = author
         self._is_checked_out = 0  # Default attribute value
 
 
 class Library:
-
-    def __init__(self, title, _books)
+    def __init__(self)
         self.title = title
         self.author = author
         self._books = 0
